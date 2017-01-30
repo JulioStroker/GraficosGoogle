@@ -1,0 +1,111 @@
+﻿@model ProjetoTeste.Models.Publico
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+
+<div class="row">
+    
+    <div class="col-md-6">
+        <div class="widget widget-blue bottom-margin-less">
+            <div class="widget-title">
+                <h3>
+                    <i class="fa fa-bar-chart-o"></i> Pizza
+                </h3>
+
+            </div>
+            <div class="widget-content">
+                <div class="text-center">
+                    <div id="chart_div" style="height: 200px"></div>
+                    <div class="value-block padded-left text-center">
+                        <div class="value-sub"> Quantidade Total: @Model.QtdTotal</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="widget widget-blue">
+            <div class="widget-title">
+                <h3>
+                    <i class="fa fa-bar-chart-o"></i> Barras
+                </h3>
+            </div>
+            <div class="widget-content">
+                <div class="text-center">
+                    <div id="barChartTiposUsuarios" style="height: 200px"></div>
+                    <div class="value-block padded-left text-center">
+                        <div class="value-sub">TOTAL</div>
+                        <div class="value-self">@Model.QtdTotal</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    google.load("visualization", "1", { packages: ["corechart"] });
+    google.setOnLoadCallback(drawChart);
+    function drawChart() {
+
+        var data = google.visualization.arrayToDataTable([
+		  ["Gênero", "Total por Gênero"],
+		  ["(Femino)", @Model.QtdFeminino],
+          ["(Masculino)", @Model.QtdMasculino],
+          ["(Não informado)", @Model.QtdNaoInformado]
+        ]);
+
+        var options = {
+            title: "",
+            pieHole: 0.4,
+            chartArea: { width: "100%", height: "100%" },
+            legend: {
+                position: "labeled",
+                textStyle: {
+                    fontName: "Roboto"
+                }
+            },
+            colors: ["#829399", "545F66", "#D0F4EA"]
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById("chart_div"));
+        chart.draw(data, options);
+    }
+
+
+    google.setOnLoadCallback(drawChartTipoUsuario);
+    function drawChartTipoUsuario()
+    {
+        var data = google.visualization.arrayToDataTable([
+		  ["Usuários", "Total", { role: "style" }],
+		  ["Masculino", @Model.QtdMasculino, "#545F66"],
+		  ["Feminino", @Model.QtdFeminino, "#829399"],
+          ["Não Informado", @Model.QtdNaoInformado, "#D0F4EA"],
+        ]);
+
+        var view = new google.visualization.DataView(data);
+        view.setColumns([0, 1,
+						 {
+						     calc: "stringify",
+						     sourceColumn: 1,
+						     type: "string",
+						     role: "annotation"
+						 },
+						 2]);
+
+        var options = {
+            title: "",
+            bar: { groupWidth: "98%" },
+            legend: { position: "none" },
+            chartArea: { width: "50%", height: "90%" },
+            fontName: "Roboto"
+        };
+        var chart = new google.visualization.BarChart(document.getElementById("barChartTiposUsuarios"));
+        chart.draw(view, options);
+    }
+
+
+</script>

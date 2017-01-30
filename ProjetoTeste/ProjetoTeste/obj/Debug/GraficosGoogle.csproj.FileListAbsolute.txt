@@ -1,0 +1,80 @@
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\csc.exe
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\vbc.exe
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\VBCSCompiler.exe
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.dll.config
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.pdb
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Antlr3.Runtime.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Newtonsoft.Json.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Helpers.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Mvc.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Optimization.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Razor.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Deployment.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Razor.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\WebGrease.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Helpers.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Mvc.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Optimization.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.Razor.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Deployment.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Razor.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Antlr3.Runtime.pdb
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\bin\Newtonsoft.Json.xml
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\obj\Debug\GraficosGoogle.csprojResolveAssemblyReference.cache
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.dll
+C:\Users\julio\Documents\Visual Studio 2015\Projects\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\csc.exe
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\System.Collections.Immutable.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\vbc.exe
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\VBCSCompiler.exe
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\roslyn\VBCSCompiler.exe.config
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.dll.config
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\ProjetoTeste.pdb
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Antlr3.Runtime.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Microsoft.Web.Infrastructure.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Newtonsoft.Json.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Helpers.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Mvc.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Optimization.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Razor.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Deployment.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Razor.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\WebGrease.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Helpers.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Mvc.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Optimization.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.Razor.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Deployment.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\System.Web.WebPages.Razor.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Antlr3.Runtime.pdb
+E:\Projetos\ProjetoTeste\ProjetoTeste\bin\Newtonsoft.Json.xml
+E:\Projetos\ProjetoTeste\ProjetoTeste\obj\Debug\GraficosGoogle.csprojResolveAssemblyReference.cache
+E:\Projetos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.dll
+E:\Projetos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
